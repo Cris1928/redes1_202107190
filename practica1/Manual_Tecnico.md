@@ -30,7 +30,7 @@ se realizara comunicación entre áreas, solo 3 en total, esto desde la computad
 
 ## Demostración de la captura de un paquete ARP/ICMP  
 A continuacion la demostracion de la captura de un paquete ARP, este se hará haciendo un envio desde OFICINA_B_1 (con ip 192.168.90.18) hacia GERENCIA (con ip 192.168.90.20).  
-**COMMAND PRONT**  
+**COMMAND PRONT**  Y  
 ![COMAND](https://github.com/Cris1928/redes1_202107190/assets/98928867/63340f25-440a-484a-a7be-cd89a002b2e6)  
 **CAPTURA DE CISCO**  
 ![CISCOPP](https://github.com/Cris1928/redes1_202107190/assets/98928867/b25608a0-b068-4718-8368-eae659b66f1f)  
