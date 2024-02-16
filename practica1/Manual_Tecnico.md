@@ -21,3 +21,7 @@
 
 - RECURSOS HUMANOS  
 ![RECURSOSHUMANOS](https://github.com/Cris1928/redes1_202107190/assets/98928867/2660de16-c1de-4d4d-9a2a-b6c002bb3e00)  
+
+### Pings entre los hosts  
+se realizara comunicación entre áreas, solo 3 en total, esto desde la computadora OFICINA_A_1 con ip 192.168.90.31, este hará una comunicacion ARP con las computadoras de OFICINA_B_1, ADMINISTRACION Y GERENCIA, estos con las direcciones ip 192.168.90.18, 192.168.90.19 y 192.168.90.20 respectivamente.  
+
