@@ -25,3 +25,12 @@
 ### Pings entre los hosts  
 se realizara comunicación entre áreas, solo 3 en total, esto desde la computadora OFICINA_A_1 con ip 192.168.90.31, este hará una comunicacion ARP con las computadoras de OFICINA_B_1, ADMINISTRACION Y GERENCIA, estos con las direcciones ip 192.168.90.18, 192.168.90.19 y 192.168.90.20 respectivamente.  
 
+![pings](https://github.com/Cris1928/redes1_202107190/assets/98928867/e78e09bf-2c33-4a98-abfd-74e0a6334aff)  
+
+## Demostración de la captura de un paquete ARP/ICMP  
+A continuacion la demostracion de la captura de un paquete ARP, este se hará haciendo un envio desde OFICINA_B_1 (con ip 192.168.90.18) hacia GERENCIA (con ip 192.168.90.20).  
+COMMAND PRONT  
+
+CAPTURA DE CISCO  
+
+
