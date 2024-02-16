@@ -1,5 +1,6 @@
 ## MANUAL TECNICO
-
+### TOPOLOGIA  
+![TOPOLOGIA](https://github.com/Cris1928/redes1_202107190/assets/98928867/d96fee6f-024d-4d2d-b972-6df493d2b6c4)  
 ### Configuración de las VPCs
 - OFICINAS A  
 ![oficina1](https://github.com/Cris1928/redes1_202107190/assets/98928867/ee09a1c2-7134-4447-b019-999bf63cb12d)  
@@ -29,8 +30,9 @@ se realizara comunicación entre áreas, solo 3 en total, esto desde la computad
 
 ## Demostración de la captura de un paquete ARP/ICMP  
 A continuacion la demostracion de la captura de un paquete ARP, este se hará haciendo un envio desde OFICINA_B_1 (con ip 192.168.90.18) hacia GERENCIA (con ip 192.168.90.20).  
+  
 COMMAND PRONT  
-
+![COMAND](https://github.com/Cris1928/redes1_202107190/assets/98928867/63340f25-440a-484a-a7be-cd89a002b2e6)  
 CAPTURA DE CISCO  
-
+![CISCOPP](https://github.com/Cris1928/redes1_202107190/assets/98928867/b25608a0-b068-4718-8368-eae659b66f1f)  
 
