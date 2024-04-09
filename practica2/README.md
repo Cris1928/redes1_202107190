@@ -14,3 +14,16 @@
 ![r1_3](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/5e1af478-b95b-4a5b-a12b-fd54cc06c4ae)
 
 # R2
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎protocolo papg
+![r2_1](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/b985911b-a485-40c0-af16-a95f636a6ab5)
+
+
+![r2_2](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/1980c563-1f23-42d9-86a3-754f5d80cb52)
+
+# R3
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎protocolo papg
+![r3_1](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/dcbdc6b3-0146-422e-8aa9-8344923d7933)
+
+![r3_2](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/abb4ab76-0080-4821-b55c-344512f39d50)
+
+
