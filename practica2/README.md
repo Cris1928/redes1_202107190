@@ -4,7 +4,7 @@
 # Topologia
 ![topologia](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/cf2ccb88-db4e-43ed-b39f-0b21b976e9ae)
 
-## Configuraciones
+## Configuraciones routers
 # R1
 ![r1_1](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/01500307-f1c2-4c74-9646-557ff202aa8a)
 
@@ -28,7 +28,7 @@
 
 
 # R4
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎protocolo papg  
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
  ![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/ca5d8b73-354f-4593-97a3-774cb17180a3)
 
  
@@ -37,3 +37,17 @@
 ![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/3f2e6370-d421-40dd-85de-5c7a7cce2bba)
 
 ![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/47662577-a453-41bd-85c6-cdeae5a4daba)
+
+# R5
+
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎protocolo HSRP  
+ ![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/45c15dbf-bd9a-4bc9-ae73-fff879d3f7b2)
+
+![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/702c6388-a51a-42ce-b4cf-215ee87818a7)
+
+# R6
+
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎protocolo HSRP  
+![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/4e9c4a36-2ca8-477b-a93a-e5d48781b0cd)
+
+![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/2450cb1f-45b9-4cbc-9961-d66a3f2a71b9)
