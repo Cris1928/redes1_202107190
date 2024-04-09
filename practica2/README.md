@@ -78,3 +78,13 @@
 
 ## LACP po2
 ![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/c7889518-1356-46ec-8b0f-47f7c793e258)
+
+# ‎ ‎ ‎  Configuración de pc´s
+
+## PC0
+![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/23aded6e-a2f9-4393-aa30-07d4226b8e3d)
+
+
+## PC1
+![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/9792278d-f274-4989-bd59-7a37f905979a)
+
