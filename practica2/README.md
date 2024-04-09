@@ -27,3 +27,6 @@
 ![r3_2](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/abb4ab76-0080-4821-b55c-344512f39d50)
 
 
+# R4
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎rutas estaticas  
+ ![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/ca5d8b73-354f-4593-97a3-774cb17180a3)
