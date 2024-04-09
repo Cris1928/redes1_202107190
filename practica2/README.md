@@ -28,5 +28,10 @@
 
 
 # R4
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎rutas estaticas  
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎protocolo papg  
  ![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/ca5d8b73-354f-4593-97a3-774cb17180a3)
+
+ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎rutas estaticas  
+![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/3f2e6370-d421-40dd-85de-5c7a7cce2bba)
+
+![image](https://github.com/Cris1928/IPC2-Bootstrap/assets/98928867/47662577-a453-41bd-85c6-cdeae5a4daba)
